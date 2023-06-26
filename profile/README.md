@@ -1,6 +1,6 @@
 # EthosHack
 
-EthosHack is a 24-hour hackathon organized by Sudur Paschim Samparka Samaj and Pashchimanchal Campus, in collaboration with the Innovative Computer Engineering Students' Society (ICES Nepal). The event aims to bring together Nepalese students who share a common interest in technology, culture, and innovation. By combining technology and innovation, EthosHack celebrates and preserves Nepal's diverse cultural heritage. Participants are encouraged to create projects that showcase the cultural richness, traditions, and attractions of different regions of Nepal. The hackathon provides a platform for collaboration, idea generation, and the development of software, applications, and solutions.
+EthosHack is a 24-hour hackathon organized by Sudur Paschim Samparka Samaj and Pashchimanchal Campus, in collaboration with the Innovative Computer Engineering Students' Society (i-CES). The event aims to bring together Nepalese students who share a common interest in technology, culture, and innovation. By combining technology and innovation, EthosHack celebrates and preserves Nepal's diverse cultural heritage. Participants are encouraged to create projects that showcase the cultural richness, traditions, and attractions of different regions of Nepal. The hackathon provides a platform for collaboration, idea generation, and the development of software, applications, and solutions.
 
 ## Event Details
 - Date: 15th Ashad (8 am) to 16th Ashad (8 am)
@@ -36,8 +36,8 @@ To ensure a positive and respectful environment, all participants must adhere to
 - Except for the core team, no guests should be brought to the event premises.
 - Discrimination based on caste, culture, race, ethnicity, language, etc., will not be tolerated and may result in disqualification.
 
-## About ICES Nepal (Innovative Computer Engineering Students' Society)
-Innovative Computer Engineering Students' Society (ICES Nepal) is established with a strong motive to educate, promote, explore, research, and compete in the field of Computer Engineering. It provides a platform for students to showcase their interest in computer programming and related projects. ICES Nepal conducts seminars, presentations, documentary shows, and competitions to enhance the engineering skills of technical students in a practical way. As one of the best representatives of the Western Region Campus, ICES Nepal actively participates in national and local level programming competitions.
+## About i-CES Nepal (Innovative Computer Engineering Students' Society)
+Innovative Computer Engineering Students' Society (i-CES Nepal) is established with a strong motive to educate, promote, explore, research, and compete in the field of Electronics and Computer Engineering. It provides a platform for students to showcase their interest in computer programming and related projects. i-CES Nepal conducts seminars, presentations, documentary shows, and competitions to enhance the engineering skills of technical students in a practical way. As one of the best representatives of the Western Region Campus, i-CES Nepal actively participates in national and local level programming competitions.
 
 
 ## Contact Information
