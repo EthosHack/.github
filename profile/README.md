@@ -1,3 +1,6 @@
+![image](https://github.com/EthosHack/.github/assets/115852972/1d795a7c-51c4-4c07-aee5-b4432ba279b7)
+
+
 # EthosHack
 
 EthosHack is a 24-hour hackathon organized by Sudur Paschim Samparka Samaj and Pashchimanchal Campus, in collaboration with the Innovative Computer Engineering Students' Society (i-CES). The event aims to bring together Nepalese students who share a common interest in technology, culture, and innovation. By combining technology and innovation, EthosHack celebrates and preserves Nepal's diverse cultural heritage. Participants are encouraged to create projects that showcase the cultural richness, traditions, and attractions of different regions of Nepal. The hackathon provides a platform for collaboration, idea generation, and the development of software, applications, and solutions.
