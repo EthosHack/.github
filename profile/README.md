@@ -45,5 +45,5 @@ Innovative Computer Engineering Students' Society (i-CES Nepal) is established w
 
 ## Contact Information
 - Address: [Paschimanchal Campus, Lamachaur, Pokhara, Nepal](https://www.ioepas.edu.np)
-- Phone: [+977 9846839865](9846839865)
+- Phone: +977 9846839865
 - Email: icesnepal@gmail.com
